@@ -1,3 +1,0 @@
-# Python Prisma
-
-Bannarak Bannasan
